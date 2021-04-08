@@ -2,7 +2,7 @@ package home4;
 
 public class car {
     public String manufacturer;
-    public String modelname;
+    public String modelName;
     public boolean factoryNew=true;
     public String color;
     public int releaseYear;
@@ -16,8 +16,8 @@ public class car {
     public void printCarData(){
         if(manufacturer!=null)
         System.out.println("Manufacturer:"+manufacturer);
-        if(modelname!=null)
-            System.out.println("Model:"+modelname);
+        if(modelName !=null)
+            System.out.println("Model:"+ modelName);
         if(factoryNew)
             System.out.println("New or Used?:"+"New");
         else System.out.println("New or Used?:"+"Used");
