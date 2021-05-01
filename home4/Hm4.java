@@ -1,6 +1,6 @@
 package home4;
 
-public class hm4 {
+public class Hm4 {
     public static void main(String[] args)
     {
     car car1=new car();
