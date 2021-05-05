@@ -1,0 +1,1 @@
+Modil,0,40,a,200.0,g,40,30.0,300.0,90.0,3,mandarin,ananas,narinj
