@@ -1,5 +1,0 @@
-Helper,2017,40,a,30.0,g,3,true,4,true,Carbon,Marines,50,40.0,3
-Copter4000,2017,40,a,30.0,g,3,true,4,true,Carbon,Solar,50,40.0,3
-Beam,2018,40,a,30.0,g,3,true,4,true,Carbon,test,50,40.0,3
-Lod,2017,40,a,30.0,g,3,true,4,true,Carbon,Night,50,40.0,3
-Gor,2020,40,a,300.0,g,3,false,0,false,None,gum,40,40.0,5
