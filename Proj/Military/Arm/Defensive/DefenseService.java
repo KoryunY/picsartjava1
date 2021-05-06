@@ -9,7 +9,7 @@ public class DefenseService extends Defense {
     public Defense CreateDefense() {
         Defense d = new Defense();
         Scanner scanner = new Scanner(System.in);
-        CreateRobot(scanner);
+        d.CreateRobot(scanner);
 
         return d;
     }
