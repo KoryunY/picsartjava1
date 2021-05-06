@@ -1,0 +1,2 @@
+Destroyer3000,2019,221,a,27.0,g,2,true,5,true,DESERT,Infantry,8,3,7.62,9.93,5.56,1000,20.0,30.0,3000,250,m,yes,20.0,40.0
+SamuraiJack,2007,40,m,27.0,a,2,true,5,true,DESERT,Infantry,8,2,9.93,5.56,500,20.0,30.0,3000,250,m,yes,20.0,40.0
