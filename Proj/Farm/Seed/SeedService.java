@@ -9,7 +9,7 @@ public class SeedService extends Seeding {
     public Seeding CreateSeeding() {
         Seeding s = new Seeding();
         Scanner scanner = new Scanner(System.in);
-        CreateRobot(scanner);
+        s.CreateRobot(scanner);
         return s;
     }
 
