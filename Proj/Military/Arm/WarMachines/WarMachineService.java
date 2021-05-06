@@ -8,7 +8,7 @@ public class WarMachineService extends WarMachines {
     public WarMachines CreateWarMachine(){
         WarMachines w=new WarMachines();
         Scanner scanner = new Scanner(System.in);
-        CreateRobot(scanner);
+        w.CreateRobot(scanner);
         return w;
     }
     public String WarToTxt(WarMachines warMachines) {
