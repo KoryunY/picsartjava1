@@ -1,2 +1,0 @@
-Docto,2016,44,a,26.0,g,2,false,0,false,None,Guard,38,88.0,4
-SafeGuard,2021,50,a,50.0,g,3,false,0,false,None,SWAT,17,99.0,5
