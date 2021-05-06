@@ -8,7 +8,7 @@ public class RescueService extends Rescue{
     public Rescue CreateRescue(){
         Rescue r=new Rescue();
         Scanner scanner = new Scanner(System.in);
-        CreateRobot(scanner);
+        r.CreateRobot(scanner);
         return r;
     }
     public String RescueToTxt(Rescue rescue) {
