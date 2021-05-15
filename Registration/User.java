@@ -75,10 +75,10 @@ public class User {
         return users;
     }
     public static boolean LoginCheck(String login,String password,List<User> users){
-        return  !users.stream()
+        return users.stream()
                 .filter(ss-> Objects.equals(ss.getUsername(), login))
                 .findAny()
-                .filter(ss->Objects.equals(ss.getPassword(),MD5.getMd5(password))).isEmpty();
+                .filter(ss->Objects.equals(ss.getPassword(),MD5.getMd5(password))).isPresent();
     }
 
 }
